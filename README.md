@@ -1,2 +1,2 @@
-### Hi there 👋
-[![Repos](https://github.com/9pepsi?tab=repositories)]
+[![Visits Badge](https://badges.pufler.dev/visits/9pepsi/9pepsi)]
+
